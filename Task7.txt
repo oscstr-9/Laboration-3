@@ -1,0 +1,5 @@
+This lab was much easier than the previous one. That being said the previous was the most difficult lab so far.
+The thing I had most problem with in this lab was either understanding when to use * and when to use & when woking with pointers
+or loading and saving from files. For the pointers I mostly used lecture notes, and to some extent the help of classmates. for file loading and saving,
+google and stack overflow helped out. Since this lab wasn't super difficult I sort of feel like I enjoyed it more and therefore remember more of what I've done.
+The lab can probably be a little more difficult since I only spent about 5 - 6 hours on it.

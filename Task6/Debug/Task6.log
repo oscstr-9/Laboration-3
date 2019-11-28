@@ -1,0 +1,6 @@
+﻿  Task6.cpp
+c:\users\oscstr-9\source\repos\task1\task6\task6.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\task1\task6\task6.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\task1\task6\task6.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\task1\task6\task6.cpp(112): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Task6.vcxproj -> C:\Users\oscstr-9\source\repos\Task1\Debug\Task6.exe
